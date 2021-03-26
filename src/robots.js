@@ -1,21 +1,21 @@
 export const robots = [
   {
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
-    email: 'Sincere@april.biz'
+    name: 'Rahul',
+    username: 'rahul',
+    email: 'rahul@gmail.com'
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
-    email: 'Shanna@melissa.tv'
+    name: 'Pawan',
+    username: 'Pappu',
+    email: 'Pawan@gmail.com'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
-    email: 'Nathan@yesenia.net'
+    name: 'Manoj',
+    username: 'Munuu',
+    email: 'Munnu@gmail.com'
   },
   {
     id: 4,

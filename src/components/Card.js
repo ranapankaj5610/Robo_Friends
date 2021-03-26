@@ -1,5 +1,6 @@
 import React from 'react';
 
+//name, email and id works like props here 
 const Card=({ name,email,id })=>{
 	return(
      <div className='tc bg-green dib br3 pa3 ma2 grow bw2 shadow-5'>
@@ -13,3 +14,4 @@ const Card=({ name,email,id })=>{
 }
 export default Card;
  
+// this component is called from cardlist component by which we return a card from here with the name email and id of a robot
